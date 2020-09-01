@@ -1,4 +1,4 @@
-For my use (pl):
+For my use (peiwei notes):
 - git clone the whole stuff (every folders)
 - open the txt2cvs.ipynb file and follow the instructions to use. That's enough for converting the e-prime log .txt file to analysis-able .cvs file.
 
